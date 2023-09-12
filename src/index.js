@@ -1,4 +1,6 @@
+import pageLoader from "./pageLoad";
+
+pageLoader();
 
 
 
-alert("Hello Can!!!!");
